@@ -1,0 +1,180 @@
+header{
+    background: #415e9b;
+    height: 82px;
+    border-bottom: 1px solid #133783;
+    
+
+}
+
+.fb-logo{
+    color: white;
+    
+    width: 50%;
+    float: left;
+    
+}
+
+.logo{
+    padding-left: 50px;
+}
+
+.header-block{
+    margin: 0 auto;
+}
+
+.fb-login{
+    width: 50%;
+    float: left;
+}
+
+.fb-login label{
+    color: #fff;
+}
+
+.password{
+    padding-top: 15px;
+    float: left;
+    margin-left: 15px;
+}
+.password label{
+    padding-bottom: 10px;
+}
+.password input[type="password"]{
+    height: 20px;
+    width: 150px;
+    border: 1px solid #1d2a5b;
+}
+.password a{
+    color: #8fb1d8;
+}
+
+.email-input{
+    padding-top: 15px;
+    float: left;
+}
+.email-input label{
+    padding-bottom: 20px;
+    
+}
+.email-input input[type="text"]{
+    height: 20px;
+    width: 150px;
+    border: 1px solid #1d2a5b;
+    
+}
+
+.login-button{
+    float: left;
+    padding-top: 2rem;
+}
+.login-button input[type="submit"]{
+    background: #4267b2;
+    color: white solid #29487d;
+    border: 1px;
+    border-radius: 2px;
+    height: 20px;
+    width: 50px;
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    /* color: #fff; */
+}
+
+.clearfix{
+    clear: both;
+}
+
+.facebook-connect{
+    margin-top: 5px;
+    width: 50%;
+    
+}
+
+.facebook-connect p{
+    color: #0e385f;
+    font-size: 25px;
+    font-weight:bold;
+    padding-left: 50px;
+    
+}
+
+.content{
+    display: flex;
+}
+.create-content{
+    margin-top: 5px;
+    color: #0e385f;
+    font-weight:600;
+}
+
+.pad1{
+    margin-bottom: 0;
+}
+
+.pad2{
+    /* margin-top: 0; */
+   
+}
+
+.content-container{
+    background: linear-gradient(#fff,#d9ddeb);
+}
+
+.account input[type="text"]{
+    height: 30px;
+    margin-bottom: 15px;
+    border: 1px solid #bdc7d8;
+    /* border-radius: 5px; */
+}
+
+.account input[type="password"]{
+    height: 30px;
+    margin-bottom: 15px;
+    border: 1px solid #bdc7d8;
+    /* border-radius: 5px; */
+}
+
+.account .by-clicking{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color:#77777a;
+    font-weight: 100;
+
+}
+
+.account input[type="submit"]{
+    padding: 12px 13px;
+    background: linear-gradient(#95d67c,#65a953);
+    border: 1px solid #3b6e22;
+    border-radius: 5px;
+    font-size: 15px;
+    color: #fff;
+    margin-top: 15px 0px;
+}
+
+.birthday{
+    margin-bottom: 5px;
+}
+
+.mb{
+    width: 72%; 
+}
+
+.rad{
+    margin: 10px;
+}
+
+
+
+
+
+.create-acc{
+    margin-top: 20px;
+}
+/* .free{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+} */
